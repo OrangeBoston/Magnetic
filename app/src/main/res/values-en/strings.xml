@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Magnetic Energy Torch</string>
+    <string name="south">S </string>
+    <string name="north">N </string>
+    <string name="east">E </string>
+    <string name="west">W </string>
+    <string name="charging">Charging</string>
+</resources>
